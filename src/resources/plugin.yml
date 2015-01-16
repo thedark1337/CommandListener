@@ -1,6 +1,6 @@
 name: CommandWatcher
 
-version: 0.5
+version: ${project.version}
 
 description: Listen to Commands
 
